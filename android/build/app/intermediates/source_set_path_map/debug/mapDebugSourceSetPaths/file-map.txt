@@ -1,0 +1,38 @@
+com.example.track_my_bus.app-jetified-activity-1.8.1-0 C:\Users\durve\.gradle\caches\8.10.2\transforms\13dd610fda78ecd8ad3daad9b8195d7e\transformed\jetified-activity-1.8.1\res
+com.example.track_my_bus.app-lifecycle-viewmodel-2.7.0-1 C:\Users\durve\.gradle\caches\8.10.2\transforms\1b91be3af319ede480d7185430690ee1\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.track_my_bus.app-jetified-datastore-release-2 C:\Users\durve\.gradle\caches\8.10.2\transforms\20049948d50ca570abd72438ffc7c5e9\transformed\jetified-datastore-release\res
+com.example.track_my_bus.app-jetified-play-services-basement-18.5.0-3 C:\Users\durve\.gradle\caches\8.10.2\transforms\22953b203f5f2868568e273311aef4c4\transformed\jetified-play-services-basement-18.5.0\res
+com.example.track_my_bus.app-jetified-tracing-1.2.0-4 C:\Users\durve\.gradle\caches\8.10.2\transforms\285b6d6abe2dd4ba9515886e610a7341\transformed\jetified-tracing-1.2.0\res
+com.example.track_my_bus.app-jetified-datastore-preferences-core-release-5 C:\Users\durve\.gradle\caches\8.10.2\transforms\2abfebe021f39b05484ee694f1e660b0\transformed\jetified-datastore-preferences-core-release\res
+com.example.track_my_bus.app-jetified-datastore-core-release-6 C:\Users\durve\.gradle\caches\8.10.2\transforms\3753b0badff9963704fafd34c527cdde\transformed\jetified-datastore-core-release\res
+com.example.track_my_bus.app-jetified-firebase-common-22.0.1-7 C:\Users\durve\.gradle\caches\8.10.2\transforms\43ba4710e0f9bda7246f6991638dd7f4\transformed\jetified-firebase-common-22.0.1\res
+com.example.track_my_bus.app-jetified-core-1.0.0-8 C:\Users\durve\.gradle\caches\8.10.2\transforms\47506b70b93177473c53f4d5d7e77c91\transformed\jetified-core-1.0.0\res
+com.example.track_my_bus.app-jetified-window-1.2.0-9 C:\Users\durve\.gradle\caches\8.10.2\transforms\5093ab42d2307deb2d7ac0b7f5718c38\transformed\jetified-window-1.2.0\res
+com.example.track_my_bus.app-fragment-1.7.1-10 C:\Users\durve\.gradle\caches\8.10.2\transforms\55520e4df2220e27f13f0bbb7467d11a\transformed\fragment-1.7.1\res
+com.example.track_my_bus.app-jetified-profileinstaller-1.3.1-11 C:\Users\durve\.gradle\caches\8.10.2\transforms\5f7dcf6815bacc3ae7f099ba801348de\transformed\jetified-profileinstaller-1.3.1\res
+com.example.track_my_bus.app-jetified-core-ktx-1.13.1-12 C:\Users\durve\.gradle\caches\8.10.2\transforms\6ec70d4eb0351866340efe37c2014fef\transformed\jetified-core-ktx-1.13.1\res
+com.example.track_my_bus.app-core-1.13.1-13 C:\Users\durve\.gradle\caches\8.10.2\transforms\8cf478dec41eed746328fa8046755ba2\transformed\core-1.13.1\res
+com.example.track_my_bus.app-jetified-datastore-preferences-release-14 C:\Users\durve\.gradle\caches\8.10.2\transforms\8e3abcce0b05969218d430128eca7d41\transformed\jetified-datastore-preferences-release\res
+com.example.track_my_bus.app-jetified-ads-adservices-1.1.0-beta11-15 C:\Users\durve\.gradle\caches\8.10.2\transforms\a5ac0c25f54533d3f30b3f61cb803440\transformed\jetified-ads-adservices-1.1.0-beta11\res
+com.example.track_my_bus.app-jetified-ads-adservices-java-1.1.0-beta11-16 C:\Users\durve\.gradle\caches\8.10.2\transforms\ae7229df85b219da9ad84de5ba4b5984\transformed\jetified-ads-adservices-java-1.1.0-beta11\res
+com.example.track_my_bus.app-jetified-savedstate-1.2.1-17 C:\Users\durve\.gradle\caches\8.10.2\transforms\b3d51a44ab6b56289d4858158a1ad6dd\transformed\jetified-savedstate-1.2.1\res
+com.example.track_my_bus.app-lifecycle-runtime-2.7.0-18 C:\Users\durve\.gradle\caches\8.10.2\transforms\c092edbccc16347970ed4f22e8da111a\transformed\lifecycle-runtime-2.7.0\res
+com.example.track_my_bus.app-jetified-window-java-1.2.0-19 C:\Users\durve\.gradle\caches\8.10.2\transforms\c1f85211ae6978d0218d51595a7f7e62\transformed\jetified-window-java-1.2.0\res
+com.example.track_my_bus.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-20 C:\Users\durve\.gradle\caches\8.10.2\transforms\c7156a54e8f0502a1f8f57797d8b3e6e\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.track_my_bus.app-jetified-startup-runtime-1.1.1-21 C:\Users\durve\.gradle\caches\8.10.2\transforms\e0d9d3675465ff69d847e2f781f20c61\transformed\jetified-startup-runtime-1.1.1\res
+com.example.track_my_bus.app-lifecycle-livedata-2.7.0-22 C:\Users\durve\.gradle\caches\8.10.2\transforms\e0eede8414d1ee0e5f236daeb1a2e59a\transformed\lifecycle-livedata-2.7.0\res
+com.example.track_my_bus.app-lifecycle-livedata-core-2.7.0-23 C:\Users\durve\.gradle\caches\8.10.2\transforms\e2e21678784b3eef6b33f576b1691a56\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.track_my_bus.app-jetified-lifecycle-process-2.7.0-24 C:\Users\durve\.gradle\caches\8.10.2\transforms\e80aa748ff6540407d8dba61c0d945fe\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.track_my_bus.app-jetified-lifecycle-livedata-core-ktx-2.7.0-25 C:\Users\durve\.gradle\caches\8.10.2\transforms\ebeb29d7113d60e59d5e0acf92f847f3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.track_my_bus.app-jetified-annotation-experimental-1.4.0-26 C:\Users\durve\.gradle\caches\8.10.2\transforms\f09a22cdd213028a38958888c7d16e20\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.track_my_bus.app-jetified-play-services-base-18.5.0-27 C:\Users\durve\.gradle\caches\8.10.2\transforms\f6fa56a75284f8e0ea5d27971291f441\transformed\jetified-play-services-base-18.5.0\res
+com.example.track_my_bus.app-core-runtime-2.2.0-28 C:\Users\durve\.gradle\caches\8.10.2\transforms\ff849810dfe34a0ab790c402787c149e\transformed\core-runtime-2.2.0\res
+com.example.track_my_bus.app-debug-29 E:\Anirudh Project\MineFile\track_my_bus\android\app\src\debug\res
+com.example.track_my_bus.app-main-30 E:\Anirudh Project\MineFile\track_my_bus\android\app\src\main\res
+com.example.track_my_bus.app-pngs-31 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\generated\res\pngs\debug
+com.example.track_my_bus.app-res-32 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\generated\res\processDebugGoogleServices
+com.example.track_my_bus.app-resValues-33 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\generated\res\resValues\debug
+com.example.track_my_bus.app-packageDebugResources-34 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.track_my_bus.app-packageDebugResources-35 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.track_my_bus.app-debug-36 E:\Anirudh Project\MineFile\track_my_bus\android\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.example.track_my_bus.app-debug-37 E:\Anirudh Project\MineFile\track_my_bus\android\build\firebase_core\intermediates\packaged_res\debug\packageDebugResources

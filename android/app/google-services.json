@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758575081225",
+    "project_id": "trackmybus-d21c5",
+    "storage_bucket": "trackmybus-d21c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758575081225:android:2644d1fec2cbaf32fd55d8",
+        "android_client_info": {
+          "package_name": "com.example.track_my_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyj44TGcOUXlVX7yaiINrMr8BMc3NQ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
